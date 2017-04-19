@@ -1,6 +1,6 @@
 # Schedule
 
-Here's the roadmap for the workshop on 13th January 2017
+Here's the roadmap for the workshop on 21st of April 2017
 
 **13:30 - 13:45 Postit session**
 
@@ -23,8 +23,8 @@ Here's the roadmap for the workshop on 13th January 2017
     * Work on your project locally and push changes to GitHub.
 * Resources
       * [README](https://github.com/KirstieJane/friendly-github-intro/blob/gh-pages/README.md)
-      * [webpage](https://kirstiejane.github.io/friendly-github-intro)
-      * [etherpad](https://public.etherpad-mozilla.org/p/2016-11-02-friendly-github-intro)
+      * [webpage](https://datachampcam.github.io/friendly-github-intro/)
+      * [etherpad](https://public.etherpad-mozilla.org/p/2017-21-04-friendly-github-intro)
 
 **13:50 - 14:00: Introduction to version control with git and github**
 
@@ -36,8 +36,8 @@ Here's the roadmap for the workshop on 13th January 2017
 **14:00 - 14:30: Exercise 1: Set up your first project**
 
 * Create your first repository in GitHub
-    * Instructions: [Exercise 1: My first repo](https://kirstiejane.github.io/friendly-github-intro/exercises/my-first-repo/)
-    * Ask as many questions as you need! Either in person or on the [etherpad](https://public.etherpad-mozilla.org/p/2016-11-02-friendly-github-intro)
+    * Instructions: [Exercise 1: My first repo](https://datachampcam.github.io/friendly-github-intro/exercises/my-first-repo/)
+    * Ask as many questions as you need! Either in person or on the [etherpad](https://public.etherpad-mozilla.org/p/2017-21-04-friendly-github-intro)
 
 **14:30 - 14:45: break**
 
@@ -50,7 +50,7 @@ Here's the roadmap for the workshop on 13th January 2017
 **15:00 - 15:15: Exercise 2: Your first pull request**
 
 * Work in pairs to submit your first pull request to your partner's repository (and then switch places and merge your partners request!)
-  * Instructions: [Exercise 2: My first pull request](https://kirstiejane.github.io/friendly-github-intro/exercises/my-first-pullrequest/)
+  * Instructions: [Exercise 2: My first pull request](https://datachampcam.github.io/friendly-github-intro/exercises/my-first-pullrequest/)
   * Ask as many questions as you need! Either in person or on the [etherpad](https://public.etherpad-mozilla.org/p/2016-11-02-friendly-github-intro)
 
 **15:15 - 15:30: Working locally using git**
@@ -63,8 +63,8 @@ Here's the roadmap for the workshop on 13th January 2017
 **15:30 - 16:00: Exercise 3: Sync your GitHub repository to your laptop**
 
 * Sync your repo to your laptop then push a commit
-  * Instructions at [Exercise 3: Working locally](https://kirstiejane.github.io/friendly-github-intro/exercises/working-locally/)
-  * Ask as many questions as you need! Either in person or on the [etherpad](https://public.etherpad-mozilla.org/p/2016-11-02-friendly-github-intro)
+  * Instructions at [Exercise 3: Working locally](https://datachampcam.github.io/friendly-github-intro/exercises/working-locally/)
+  * Ask as many questions as you need! Either in person or on the [etherpad](https://public.etherpad-mozilla.org/p/2017-21-04-friendly-github-intro)
 
 **16:15 - 16:30: More things you can do with GitHub**
 
