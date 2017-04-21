@@ -1,4 +1,4 @@
-# Schedule
+# Friendly GitHub Introduction - Schedule
 
 Here's the roadmap for the workshop on 21st April 2017
 
